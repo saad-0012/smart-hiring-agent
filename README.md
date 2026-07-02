@@ -2,7 +2,7 @@
 
 > **Hackathon:** Redrob Intelligent Candidate Discovery & Ranking Challenge  
 > **Team:** Bug Writer | **Participant:** Saad Shaikh  
-> **Contact:** saadshaikh121103@gmail.com
+> **Contact:** saadshaikh121103@gmail.com 
 
 ## 🎯 The Philosophy: What this does, and what it deliberately does NOT do
 
