@@ -1,0 +1,24 @@
+team_name: "Bug Writer"
+primary_contact_name: "Saad Shaikh"
+primary_contact_email: "saadshaikh121103@gmail.com"
+primary_contact_phone: "7020967003"
+github_repository_url: "https://github.com/saad-0012/redrob-ranker"
+sandbox_link: "TBD"  # Fill in after deploying to HuggingFace Spaces or Streamlit Cloud
+ai_tools_declared:
+  - Claude
+compute_environment_summary: "Python 3.10+, CPU only, 16GB RAM, ~2 min runtime"
+team_members:
+  - name: "Saad Shaikh"
+    email: "saadshaikh121103@gmail.com"
+methodology_summary: >
+  Multi-signal scoring pipeline with 4 independent pillars:
+  (1) Role Fit — career trajectory, industry type, domain signals extracted from
+  job descriptions using keyword matching against IR/ranking-specific terms;
+  (2) Skill Match — JD-weighted scoring of must-have vs nice-to-have skills,
+  modulated by proficiency level, endorsements, duration of use, and assessment scores;
+  (3) Behavioral Signals — recency, recruiter response rate, open-to-work status,
+  notice period, location fit, GitHub activity, and interview completion rate;
+  (4) Experience Quality — YOE band fit, product vs services company ratio,
+  tenure stability (anti-title-chasing), and education tier.
+  Honeypots detected via impossible timeline checks and 0-duration expert skill anomalies.
+  Final score = weighted combination (35/30/20/15). All CPU, no API calls, ~2 min.

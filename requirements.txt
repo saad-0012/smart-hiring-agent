@@ -1,0 +1,21 @@
+<<<<<<< HEAD
+# Ranking pipeline dependencies (rank.py, jd_parser.py, bm25.py, text_features.py)
+numpy>=1.24.0
+scipy>=1.10.0
+scikit-learn>=1.3.0
+python-docx>=1.1.0
+
+# Sandbox demo only (app.py) — not required to reproduce the submission CSV
+streamlit>=1.32.0
+pandas>=2.0.0
+=======
+# No external dependencies required.
+# rank.py uses only Python standard library modules:
+#   json, csv, sys, argparse, math, datetime, pathlib, gzip, time
+#
+# Python >= 3.8 required (3.10+ recommended)
+#
+# Optional (for sandbox/demo only):
+# streamlit>=1.32.0
+# pandas>=2.0.0
+>>>>>>> 16501df389063dc484603aad8e618abe66de8156
